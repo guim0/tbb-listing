@@ -10,7 +10,3 @@
 .
 
 ## Simples e funcional.
-
-## Link para acessar baixo 👇🏽
-
-> ## [The Brooklyn brother - Listing](https://guim0.github.io/tbb-listing/)
