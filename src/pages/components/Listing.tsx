@@ -36,6 +36,7 @@ export function Listing({
 const Container = styled.div`
   display: flex;
   align-items: center;
+  justify-content: space-evenly;
   border: 1px solid white;
   border-radius: 8px;
   width: 80%;
