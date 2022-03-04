@@ -6,7 +6,7 @@
 
 ---
 ## O que fiz?
-### Criei um componente que recebe todas as informações e com a ajuda do **map** do JavaScript ele foi listando, com detalhes como *nome*, *foto*, *descrição*, *categoria* e IREI CRIAR UM FILTRO QUE VAI LIDAR COM CADA CATEGORIA
+### Criei um componente que recebe todas as informações e com a ajuda do **map** do JavaScript ele foi listando, com detalhes como *nome*, *foto*, *descrição*, *categoria* Junto da home com a Listagem implementei um filtro com as 3 categorias que existem no data.json, ao selecionar uma das categorias, ele filtra na listagem e tbm mostra para o usuario qual foi o filtro selecionado.
 .
 
 ## Simples e funcional.
