@@ -12,6 +12,6 @@
 
 ### Deployed by [![Netlify Status](https://api.netlify.com/api/v1/badges/b145ab5e-a8b1-4f88-9a5c-36bee382caef/deploy-status)](https://app.netlify.com/sites/tbb-listing/deploys)
 
-## Deployed 
+## Link oficial 
 > https://tbb-listing.netlify.app
 ## Simples e funcional.
